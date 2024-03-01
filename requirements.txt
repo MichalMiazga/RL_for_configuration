@@ -1,0 +1,6 @@
+Jupyter
+jpype1
+ray[rllib]
+numpy
+gymnasium
+torch==2.0.1
